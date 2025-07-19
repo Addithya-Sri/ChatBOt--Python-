@@ -62,7 +62,7 @@ Whether you're deploying EC2 instances, fetching logs, or managing auto-scaling,
 
 ---
 
-![image alt](https://github.com/Addithya-Sri/Spotify-Clone-/blob/d8cbf621c2231b762a6a3f5006eef39fcfd92c67/spotify.png)
+![image alt](https://github.com/Addithya-Sri/ChatBOt--Python-/blob/5d1522c9f63880b5eb7a483b589ee4b2a95391c0/Slack.png)
 
 
 
