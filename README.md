@@ -1,3 +1,5 @@
+🤖 My ChatBot – SlackBot for AWS Automation
+
 Welcome to CloudOpsBot, a powerful Slack-integrated chatbot that lets you automate AWS operations straight from your Slack workspace.
 
 🚀 Project Overview
