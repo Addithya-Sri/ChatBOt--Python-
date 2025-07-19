@@ -62,5 +62,5 @@ Whether you're deploying EC2 instances, fetching logs, or managing auto-scaling,
 
 ---
 
-## 📁 Project Structure
+
 
