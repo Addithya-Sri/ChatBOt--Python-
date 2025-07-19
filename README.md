@@ -62,5 +62,7 @@ Whether you're deploying EC2 instances, fetching logs, or managing auto-scaling,
 
 ---
 
+![Screenshot](https://user-images.githubusercontent.com/.../yourimage.png)
+
 
 
